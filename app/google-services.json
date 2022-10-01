@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67275145306",
+    "firebase_url": "https://ef-gprm-default-rtdb.firebaseio.com",
+    "project_id": "ef-gprm",
+    "storage_bucket": "ef-gprm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67275145306:android:bbfd167d320dfd720fd863",
+        "android_client_info": {
+          "package_name": "aplicaciones.moviles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67275145306-s7f8sht89lrpdm3siftbdcpues0s6dn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIF1d07js3af6Dls3PDZc5s41V6vFjTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67275145306-s7f8sht89lrpdm3siftbdcpues0s6dn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
